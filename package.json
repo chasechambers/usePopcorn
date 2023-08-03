@@ -1,6 +1,6 @@
 {
   "name": "usepopcorn",
-  "homework": "http://chasechambers.github.io/usePopcorn",
+  "homepage": "http://chasechambers.github.io/usePopcorn",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
